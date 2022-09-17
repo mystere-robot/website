@@ -2,5 +2,5 @@
 
 Une association loi 1901 pour apprendre le code informatique et la pensée computationnelle.
 
-### Essai
+![POD IP](/assets/img/Mr Robot.png)
 
